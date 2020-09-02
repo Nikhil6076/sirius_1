@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16384746906",
+    "firebase_url": "https://sirius-b60d4.firebaseio.com",
+    "project_id": "sirius-b60d4",
+    "storage_bucket": "sirius-b60d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16384746906:android:fed756e83ede7cc7268623",
+        "android_client_info": {
+          "package_name": "com.example.sirius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16384746906-6hul2q4u3o5u5k0csrlh36p24sl07iem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sirius",
+            "certificate_hash": "09d67f128e382e4fd236f0df27b717e1c93d3e6a"
+          }
+        },
+        {
+          "client_id": "16384746906-l25dgf4mu4ip32rnh7ajkprap6cpc57i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg4SvRt5CpZzY8wGjmu1Ko25EvqhYv8cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16384746906-l25dgf4mu4ip32rnh7ajkprap6cpc57i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
